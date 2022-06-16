@@ -1,0 +1,21 @@
+{ "id": 1,
+    "event_name": "Design Case Challenge",
+    "card_image": "https://e-cell-server-bucket.s3.amazonaws.com/media_files/event/main/card/designCC_small.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT4QCDQEC2VEPQUMK%2F20220529%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220529T065336Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9983cd1fe59650806c2cbf2d5d642520e848b46aab4e7581b4a7766154ba6dab",
+    "background_image": "https://e-cell-server-bucket.s3.amazonaws.com/media_files/event/main/background/designCC_cover.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT4QCDQEC2VEPQUMK%2F20220529%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220529T065336Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=6fabc2a3f5cebfbd8cf6a4746231e5a5679f17d049ff772902914409bf5e82d0",
+    "tagline": "Case Study Competition",
+    "description": "<p>E-Summit IIT Roorkee, in association with Divami Design Labs brings to you the Design Case Challenge - Obstacles to opportunities</p>\r\n\r\n<p>Embark on an exciting journey of designing solutions from scratch based on problem statements from real-world dilemmas with a healthy dose of competition and attractive rewards!</p>\r\n\r\n<p>Do you have what it takes to raise the bar?</p>\r\n\r\n<p>&nbsp;</p>",
+    "card_description": "<p>Brainstorm your way through of mind-boggling problem statements based on real-world dilemmas&nbsp;to ideate, innovate and present a creative, practical and sustainable solution.</p>",
+    "google_form": "https://forms.gle/iuBHXwGNyTdF9pvz8",
+    "event_priority": 1,
+    "event_status": "L",
+    "mobile_background_image": null,
+    "logo_image": null,
+    "end_point": "design-case-challenge",
+    "event_seo": null,
+    "events_coordinators": [
+        1,
+        22,
+        27
+    ]
+
+    }
